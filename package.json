@@ -14,12 +14,12 @@
     "component"
   ],
   "dependencies": {
-    "kevoree-entities": "^9.0.0-alpha",
+    "kevoree-entities": "next",
     "twitter": "^1.3.0"
   },
   "devDependencies": {
     "grunt": "^1",
-    "grunt-kevoree": "^5",
+    "grunt-kevoree": "next",
     "grunt-kevoree-genmodel": "^3",
     "grunt-kevoree-registry": "^3",
     "load-grunt-tasks": "^3"
